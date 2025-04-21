@@ -1,5 +1,5 @@
-import 'package:finals_app/pay_bills_screen.dart';
-import 'package:finals_app/transfer_screen.dart';
+import 'package:finals_devops/pay_bills_screen.dart';
+import 'package:finals_devops/transfer_screen.dart';
 import 'package:flutter/material.dart';
 import 'user_model.dart';
 import 'home_screen.dart';

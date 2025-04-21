@@ -1,7 +1,8 @@
-import 'package:finals_app/dashboard_screen.dart';
+import 'package:finals_devops/dashboard_screen.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
+import 'dashboard_screen.dart';
 import 'user_model.dart';
 class TransferReceiptPage extends StatelessWidget {
   final String recipientName;
